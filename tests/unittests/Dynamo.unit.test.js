@@ -1,4 +1,4 @@
-const Dynamo = require('../common/Dynamo');
+const Dynamo = require('../../lambdas/common/Dynamo');
 
 test('Dynamo is an object', () => {
     expect(typeof Dynamo).toBe('object');
