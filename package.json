@@ -18,15 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SamWSoftware/ServerlessYoutubeSeries.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SamWSoftware/ServerlessYoutubeSeries/issues"
-  },
-  "homepage": "https://github.com/SamWSoftware/ServerlessYoutubeSeries#readme"
+  }
 }
